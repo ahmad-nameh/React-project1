@@ -1,0 +1,32 @@
+{
+    "signin" :"Sign in",
+    "hotel" :"Hotels",
+    "flights":"Flights",
+    "trips" :"Trips",
+    "attraction" :"Attractions",
+    "homesearch": "Where To ?",
+    "hotelsearch" :"hotel name or destination",
+    "fromcountry" :"from",
+    "tocountry" :"to",
+    "one-way" :"One-Way",
+    "round-trip" :"Round-Trip",
+    "adult" :"adult",
+    "child" :"child",
+    "tripsearch" :"Trip To  ? or Location",
+    "min-price":"Min-price",
+    "max-price" :"Max-price",
+    "hotelsearchbutton":"Find Hotels",
+    "tripsearchbutton": "Find",
+    "attractionsearch" :"Search a destination , attraction or activity.",
+    "attractionsearchbutton" :"Find",
+    "from":"from",
+    "to" :"to",
+    "room":"room",
+    "book_now": "book now",
+    "search_your":"Search your ",
+    "holiday": "Holiday",
+    "latest":"Latest reviews. Lowest Prices"
+
+
+
+}

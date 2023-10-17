@@ -1,0 +1,76 @@
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.pagination-container-active {
+  font-weight: bolder;
+}
+.pagination-container a {
+  border: none !important;
+  background: none !important;
+}
+.deletebutoom.edit {
+  background-color: darkgray;
+}
+.deletebutoom {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0 10px;
+  color: white;
+  border-radius: 4px;
+  background-color: #cb3100;
+}
+
+.deletebutoomShow {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0 10px;
+  color: white;
+  border-radius: 4px;
+  width: 75px;
+  height: 30px;
+  align-items: center;
+
+  background-color: #cb3100;
+}
+.inputDays {
+  position: absolute;
+  width: 88%;
+  left: -44%;
+  top: 10%;
+  height: 80%;
+  border: 1px solid gray;
+  display: flex;
+  background-color: rgb(46, 46, 46);
+  border-radius: 30px;
+  z-index: 10;
+  opacity: 1;
+  transition: all 0.3s;
+}
+
+.inputDays form {
+  overflow: auto;
+  padding: 25px;
+  width: 100%;
+}
+.inputDays form::-webkit-scrollbar {
+  width: 0;
+}
+.inputDays input {
+  padding: 15px;
+  margin: 10px;
+  width: 95%;
+}
+.inputDays input::placeholder {
+  background: none;
+}
+.formInputAdd {
+  justify-content: center;
+}
+.formInputAdd input {
+  margin: 10px auto;
+  padding: 10px;
+}
